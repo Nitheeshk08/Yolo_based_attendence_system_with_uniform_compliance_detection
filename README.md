@@ -3,9 +3,9 @@
 #This is the project we implemented in our final year of BTECH
 
 #This is a Deep Learning project, using technologies like -
-#Python - For program or scripting
-#Anaconda - to create a virtual environment
-#yolo_v8m - to detect college uniform and id card
+1. Python - For program or scripting
+2. Anaconda - to create a virtual environment
+3. yolo_v8m - to detect college uniform and id card
 
 
 #The libraries or dependecies required to be installed in the virtaul environment are
