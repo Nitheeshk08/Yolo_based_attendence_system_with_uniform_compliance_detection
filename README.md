@@ -9,16 +9,16 @@
 
 
 #The libraries or dependecies required to be installed in the virtaul environment are
-#numpy
-#pandas
-#os
-#csv
-#datetime
-cv2
-#face_recognition
-#pickle
-#ultralytics
-#twilio.rest 
+1. numpy
+2. pandas
+3. os
+4. csv
+5. datetime
+6. cv2
+7. face_recognition
+8. pickle
+9. ultralytics
+10. twilio.rest 
 
 
 
