@@ -1,8 +1,15 @@
+#Only run this program if..
+#You want to take pictures of your clssmates
+#Throught the webcam... You can take pictures of 
+#Classmates and add them to the databse folder
+#even if you run this there will be no big difference
+#jus the new images will be added to the roll number folders
+
 import cv2
 import os
 
 # Path to the database folder
-database_path = "C:/Users/ASUS/Desktop/BATCH-8/Model_Training/Face_detection/database"
+database_path = ""      #give the database's absolute path here....
 
 # Ask for student roll number
 roll_no = input("Enter Student Roll Number: ").strip()
